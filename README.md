@@ -39,5 +39,5 @@ btnIdle:GetComponent("Button").onClick:AddListener(function()   end)
 --注册c#自定义事件
 target:GetComponent("ARBoxLuaCollision"):EventEnter('+', CheckDuckFailDown)
 
-![](Assets/DuckHunt/Game Resources/duckHunt.gif)
+![](Assets/DuckHunt/Duck Hunt Case/Game Resources/duckHunt.gif)
 
