@@ -1,5 +1,5 @@
 
-# ARbox-Lua-Plugin #
+# DuckHunt-Xlua #
 
 ## 要求 ##
 
