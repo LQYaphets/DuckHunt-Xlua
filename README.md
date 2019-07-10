@@ -41,5 +41,5 @@ target:GetComponent("ARBoxLuaCollision"):EventEnter('+', CheckDuckFailDown)
 ```
 
 ### 来看看成果吧
-[![](https://github.com/LQYaphets/DuckHunt-Xlua/blob/master/Assets/DuckHunt/Duck%20Hunt%20Case/Game%20Resources/duckHunt.gif)]
+![](https://github.com/LQYaphets/DuckHunt-Xlua/blob/master/Assets/DuckHunt/Duck%20Hunt%20Case/Game%20Resources/duckHunt.gif)
 
